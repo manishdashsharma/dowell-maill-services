@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dowell-maill-services/static/css/main.b7276727.css",
+    "main.js": "/dowell-maill-services/static/js/main.050678c5.js",
+    "static/js/787.4e9cb3a7.chunk.js": "/dowell-maill-services/static/js/787.4e9cb3a7.chunk.js",
+    "index.html": "/dowell-maill-services/index.html",
+    "main.b7276727.css.map": "/dowell-maill-services/static/css/main.b7276727.css.map",
+    "main.050678c5.js.map": "/dowell-maill-services/static/js/main.050678c5.js.map",
+    "787.4e9cb3a7.chunk.js.map": "/dowell-maill-services/static/js/787.4e9cb3a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7276727.css",
+    "static/js/main.050678c5.js"
+  ]
+}
